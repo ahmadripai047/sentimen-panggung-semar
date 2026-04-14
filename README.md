@@ -1,4 +1,4 @@
-# 📰 Analisis Sentimen Berita — Evaluasi 48 Tahun UNS
+# Analisis Sentimen Berita — Evaluasi 48 Tahun UNS
 
 > **"Bagaimana sentimen mahasiswa UNS terhadap kebijakan kampus yang tercermin dalam pemberitaan Panggung Semar?"**
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Business Problem
+## Problem
 
 Berita ini meliput kegiatan Panggung Semar yang digelar Aliansi BEM UNS sebagai bentuk ekspresi aspirasi mahasiswa pada Dies Natalis UNS ke-48. Analisis ini menjawab:
 
