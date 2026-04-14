@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776ab?logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Lexicon--Based-4ecb8a)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-F37626?logo=jupyter&logoColor=white)
-
+[![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-ff4b4b?logo=streamlit&logoColor=white)](https://sentimen-panggung-semar.streamlit.app/)
 ---
 
 ## Sumber Berita
